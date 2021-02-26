@@ -1,4 +1,6 @@
-## Conceitos ReactJS!  
+## Desafio sobre os conceitos ReactJS!  
+
+### Objetivos da tarefa:
 
 ### Listar os repositórios da sua API: Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.
 
@@ -6,7 +8,10 @@
 
 ### Remover um repositório da sua API: Para cada item da sua lista, deve possuir um botão com o texto Remover que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
 
-## Getting Started with Create React App
+### Para que o projeto funcione é preciso baixar o projeto "conceitos NodeJs" e subir o servidor, a API deste projeto se contra lá 😁
+
+
+## Getting Started with Create React App 🚀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
